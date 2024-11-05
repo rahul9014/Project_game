@@ -1,4 +1,4 @@
-# CodeAlpha_game
+
 packages for the code you're working on
 pip install opencv-python
 run main.py file first and make sure you had instrall all the requirements 
